@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--NoSQL Database-->
+<NoSQLDB_ELEMENTS>
+  <numbers>System.Int32</numbers>
+  <name>System.String</name>
+  <open_close>
+    <new_Key>1</new_Key>
+    <newelement>
+      <name>first element</name>
+      <description>SMA</description>
+      <Children>
+        <key>111</key>
+        <key>112</key>
+        <key>113</key>
+      </Children>
+      <newtime>2015-10-10T15:45:35.4387698-04:00</newtime>
+      <newpayload>first payload</newpayload>
+    </newelement>
+  </open_close>
+  <open_close>
+    <new_Key>2</new_Key>
+    <newelement>
+      <name>second element </name>
+      <description>OOD</description>
+      <Children>
+        <key>221</key>
+        <key>222</key>
+        <key>223</key>
+      </Children>
+      <newtime>2015-10-10T15:45:35.4387698-04:00</newtime>
+      <newpayload>second payload</newpayload>
+    </newelement>
+  </open_close>
+  <open_close>
+    <new_Key>3</new_Key>
+    <newelement>
+      <name>third element</name>
+      <description>DP</description>
+      <Children>
+        <key>331</key>
+        <key>332</key>
+        <key>333</key>
+      </Children>
+      <newtime>2015-10-10T15:45:35.4387698-04:00</newtime>
+      <newpayload>third payload</newpayload>
+    </newelement>
+  </open_close>
+</NoSQLDB_ELEMENTS>

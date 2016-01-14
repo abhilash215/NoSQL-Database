@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--NoSQL Database-->
+<NoSQLDB_ELEMENTS>
+  <numbers>System.Int32</numbers>
+  <name>System.String</name>
+  <open_close>
+    <new_Key>1</new_Key>
+    <newelement>
+      <name>first element of db</name>
+      <dscr>int and string type</dscr>
+      <Children>
+        <key>0</key>
+        <key>4</key>
+        <key>8</key>
+        <key>1</key>
+      </Children>
+      <newtime>2015-10-10T12:17:11.1480711-04:00</newtime>
+      <newpayload>first element's payload</newpayload>
+    </newelement>
+  </open_close>
+  <open_close>
+    <new_Key>3</new_Key>
+    <newelement>
+      <name>second inserted element</name>
+      <dscr>int and string values</dscr>
+      <Children>
+        <key>3</key>
+        <key>5</key>
+        <key>7</key>
+      </Children>
+      <newtime>2015-10-10T12:17:11.1636951-04:00</newtime>
+      <newpayload>second inserted elements payload</newpayload>
+    </newelement>
+  </open_close>
+</NoSQLDB_ELEMENTS>
